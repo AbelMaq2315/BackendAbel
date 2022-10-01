@@ -8,7 +8,9 @@ namespace Ejemplo2.Entiti
     public class UserRepository
     {
         public static void Daniel (){
+            //prueba de cambios
 
+            var a=1;
         }
 
     }
