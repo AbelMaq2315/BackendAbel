@@ -7,5 +7,9 @@ namespace Ejemplo2.Entiti
 {
     public class UserRepository
     {
+        public static void Daniel (){
+
+        }
+
     }
 }
